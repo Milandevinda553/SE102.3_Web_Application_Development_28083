@@ -1,0 +1,35 @@
+.label{
+    font-size: 20px;
+    padding: 0.5%;
+    color: white;
+  }
+  
+  input{
+    font-size: 20px;
+  }
+  h2{
+    background-color: orange;
+    padding: 3px;
+  }
+  
+  .signupform{
+    text-align: center;
+    padding: 3px;
+    width:500px;
+    margin: auto auto auto auto;
+    background-color: black;
+  }
+  
+  .btn {
+    background-color: orange;
+    width: 490px;
+    padding: 5px;
+    margin: 10px 0 10px 0;
+  }
+  .sub{
+    background-color: green;
+  }
+  .can{
+    background-color: red;
+  }
+  

@@ -1,0 +1,13 @@
+<html>
+<body>
+    <h2>Question 6</h2>
+    <button id="q6">Google</button>
+<script>
+ document.getElementById("q6").onclick = () => {
+            var answer = confirm("Would you like to redirect to Google?");
+            (answer == true)? window.location.href = "https://www.google.com": alert("You decied to stay here");
+            
+        }
+</script>
+</body>
+</html>
